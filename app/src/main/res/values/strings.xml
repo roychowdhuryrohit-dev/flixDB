@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlixDB</string>
+    <string name="error">Check network connection</string>
+    <string name="sort_by_popularity">By popularity</string>
+    <string name="sort_by_rating">By rating</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="heart_icon">heart_icon</string>
+    <string name="releasing_on">Releasing on: %1$s</string>
+</resources>
